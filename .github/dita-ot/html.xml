@@ -11,7 +11,7 @@
     <context idref="html"/>
     <output href="html"/>
     <publication transtype="html5-bootstrap">
-     <param name="bootstrap.theme" value="lux"/>
+     <param name="bootstrap.theme" value="quartz"/>
       <param name="args.favicon" value="favicon.svg"/>
       <param name="args.faviconpath" value="favicon"/>
       <param name="args.faviconroot" path="."/>
