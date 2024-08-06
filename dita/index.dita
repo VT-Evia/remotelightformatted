@@ -1,31 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
-<topic id="intro">
-  <title>Monkeys are good people</title>
-  <shortdesc>We appreciate your commitment to the monkey lifestyle</shortdesc>
-  <prolog>
-    
-    <author type="creator">Monkey Isme</author>
-    <copyright>
-      <copyryear year="2024"/>
-      <copyrholder>Monkeys</copyrholder>
-    </copyright>
-    
-  </prolog>
-  <body>
-    <p>Hello monkey friend. Not that you are a friend who is a monkey, but
-            you are a friend of monkeys. This manual includes everything you need to know in order
-            to become the best monkey manager ever. Please read and be happy.</p>
-   <fig>
-     <title>Harambe forever</title>
-     <image href="harambe.jpg">
-       <alt>Harambe the gorilla</alt>
-     </image>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro-product" xml:lang="en-us">
+ <title>Remote Lighting Overview</title>
+ <shortdesc>Remote lighting allows you to operate network-based home lighting through a remote
+  control.</shortdesc>
+ <prolog>
+  <author>Kevin Lewis</author>
+  <copyright>
+   <copyryear year="2024"/>
+   <copyrholder>Remote Lighting Enterprises</copyrholder>
+  </copyright>
+ </prolog>
+ <conbody>
+  <p>The <keyword keyref="product-name"/> kit includes a wireless smart lighting system that helps make the lighting
+   in your home more energy efficient and easier to manage. The kit includes the following
+   components:</p>
+  <dl>
+   <dlentry>
+    <dt>Remote Control</dt>
+    <dd>Allows you to <xref href="how-to-turn-on-off-dim-lights.dita#how-to-turn-on-off-dim-lights"
+      >power on, power off, and dim groups</xref> of lights on your network.</dd>
+   </dlentry>
+   <dlentry>
+    <dt>LED Light Bulbs</dt>
+    <dd>Energy-efficient network light bulbs you can install into standard light fixtures.</dd>
+   </dlentry>
+  </dl>
+  <image href="images/kit.png" id="image-xmw-mxy-3r"/>
+<note conref="osha-warning.dita#oshawarning/disclaimer" />
+ </conbody>
+ <related-links>
+  <link href="intro-network-lighting.dita#intro-network-lighting"/>
+ </related-links>
 
-   </fig>
-    
-  
-   
-    <note id="mean">Monkeys are fun, but they can be mean! Be careful when handling monkeys.</note>
-  </body>
-</topic>
+</concept>
