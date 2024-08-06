@@ -15,8 +15,5 @@
     <section>The components in your <keyword keyref="product-name"/> network have electronic and technical specifications
       that are specific to the component type.</section>
   </refbody>
-  <related-links>
-    <link href="ref-specifications-remote-control.dita#ref-specifications-remote-control"/>
-    <link href="ref-specifications-led-bulb.dita#ref-specifications-led-bulb"/>
-  </related-links>
+  
 </reference>

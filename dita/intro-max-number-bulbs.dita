@@ -19,7 +19,5 @@
    performance.</p>
   <note conref="osha-warning.dita#oshawarning/disclaimer" />
  </conbody>
- <related-links>
-  <link href="intro-network-lighting.dita#intro-network-lighting" scope="local"/>
- </related-links>
+
 </concept>

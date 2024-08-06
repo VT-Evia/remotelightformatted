@@ -30,8 +30,4 @@
    <note conref="osha-warning.dita#oshawarning/disclaimer" />
   </example>
  </conbody>
- <related-links>
-  <link href="intro-max-number-bulbs.dita#intro-max-number-bulbs" scope="local"/>
-  <link href="intro-low-power-networking.dita#intro-low-power-networking" scope="local"/>
- </related-links>
 </concept>

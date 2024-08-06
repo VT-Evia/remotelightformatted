@@ -29,8 +29,4 @@
   <image href="images/kit.png" id="image-xmw-mxy-3r"/>
 <note conref="osha-warning.dita#oshawarning/disclaimer" />
  </conbody>
- <related-links>
-  <link href="intro-network-lighting.dita#intro-network-lighting"/>
- </related-links>
-
-</concept>
+ </concept>
