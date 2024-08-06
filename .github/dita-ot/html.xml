@@ -11,10 +11,7 @@
     <context idref="html"/>
     <output href="html"/>
     <publication transtype="html5-bootstrap">
-      <param name="args.copycss" value="yes"/>
-      <param name="args.css" value="theme.css"/>
-      <param name="args.csspath" value="css"/>
-      <param name="args.cssroot" path="."/>
+     <param name="bootstrap.theme" value="lux"/>
       <param name="args.favicon" value="favicon.svg"/>
       <param name="args.faviconpath" value="favicon"/>
       <param name="args.faviconroot" path="."/>
